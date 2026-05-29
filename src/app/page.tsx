@@ -1,5 +1,5 @@
 "use client";
 
-export default function Page() {
-  return <div>안녕하세요!!!</div>;
+export default function Page() {// flex-grow flex items-center justify-center
+  return <div className="flex-grow flex items-center justify-center">안녕하세요.</div>;
 }
